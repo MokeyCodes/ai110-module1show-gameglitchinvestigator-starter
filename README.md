@@ -36,7 +36,7 @@ It wrote the code, ran away, and now the game is unplayable.
 ![Winning Game Screenshot](Winning.png)
 
 ### ✅ All Tests Passing
-![Passing Tests](tests_passing.png)
+![Passing Tests](Passed.png)
 
 ## 🚀 Stretch Features
 
